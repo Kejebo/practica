@@ -1,5 +1,4 @@
+document.querySelector('#cambiar').addEventListener(()=>{
 
-
-
-
-    alert('ssss');
+        document.querySelector('div').textContent='Hello world';
+})
